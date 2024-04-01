@@ -1,0 +1,1 @@
+Those using "jackson-dataformats-text" to parse TOML data may be vulnerable to Denial of Service attacks (DOS).
